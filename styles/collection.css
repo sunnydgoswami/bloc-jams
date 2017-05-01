@@ -11,7 +11,7 @@ body.collection {
 }
 
 .collection-album-container {
-    position: relative;
+    display: inline-table;
     margin-top: 30px;
     margin-bottom: 20px;
     text-align: center;
@@ -36,5 +36,6 @@ body.collection {
 }
 
 .collection-album-container img {
-    width: 80%;
+    position: relative;
+    width: 50%;
 }
