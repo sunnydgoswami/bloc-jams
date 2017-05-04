@@ -25,3 +25,5 @@ window.onload = function () {
          }
   });
 }
+
+console.log('sunny');
