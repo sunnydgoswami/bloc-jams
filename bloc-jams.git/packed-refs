@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled 
+1f64d0624d2266435ad74fa0173c670e7baa934f refs/heads/assignment-11
+f4cc6b8f5afb2c3b79f8c24ae35a6596abf2f0a3 refs/heads/assignment-2-basic-html
+3140a88bd0fcd8b907e3a383f75e86877b04ddad refs/heads/assignment-4-interfaces
+6588edd7e2b87bf7dd2e289d5cdbd88b59e4d6d7 refs/heads/assignment-5-interfaces
+490c1c2bbf5fca01b69624e384110af1fc6bbf3c refs/heads/assignment-8-interfaces
+97c85ed3734a9c6b76d521dd20f2cb2e54b04678 refs/heads/assignment-9
+2597d282ee54fd0e344761837537f2efd214ccd7 refs/heads/checkpoint-10
+c0bb65717808934a17323fd803bce86cb148a8e4 refs/heads/checkpoint-11
+c90f84be6f017f5c313151402ccf55f2b17c444d refs/heads/checkpoint-2-basic-html
+24d9854f9227c1f9290aaafc2ca8b1fa67aa6916 refs/heads/checkpoint-4-interfaces
+78e43e6285116bbd89a340baf8185387a8dcb96e refs/heads/checkpoint-5-interfaces
+44c3e18871071f33a070945aae789eede3b0a616 refs/heads/checkpoint-6-interfaces
+212502c40ada6ff41e39371f31284b336846ebb0 refs/heads/checkpoint-8-interfaces
+48cf679697d565416f1df9e0340617562a6b1c32 refs/heads/checkpoint-9
+c0bb65717808934a17323fd803bce86cb148a8e4 refs/heads/master
